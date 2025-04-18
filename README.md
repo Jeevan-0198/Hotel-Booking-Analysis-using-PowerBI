@@ -23,6 +23,6 @@ Writing custom DAX formulas for KPIs,
 Applying data cleaning and transformation techniques,  
 Improving visual storytelling and user interaction in dashboards.  
 ## Files Included
-
+<a/ href="https://github.com/Jeevan-0198/Hotel-Booking-Analysis-using-PowerBI/blob/main/Hotel%20Booking%20Analysis.pbix"> Hotel Booking Analysis</a>
 ## Conclusion
 This project was a great learning experience in transforming raw data into impactful visual stories. It deepened my understanding of Power BI and sparked a growing interest in advanced analytics and dashboard design.
